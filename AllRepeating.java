@@ -21,11 +21,13 @@ class AllRepeating{
 		ArrayList<Integer> al = new ArrayList<>();
 		
 		for(Integer key : map.keySet()){
-			if(map.get(key) > 1){
-				al.add(key);
+			if(map.get(key) > 1){  					// If we need to find the Non-Repeating elements
+				al.add(key);						// then change the condition to ==
 			}
 		}
 		
 		System.out.println("Repeating elements : " + al);
+		
+		// NOTE : Same way we can find the All Non-Repeting elements
 	}
 }
