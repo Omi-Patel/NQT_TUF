@@ -1,17 +1,15 @@
 import java.util.*;
-class SortString{
+
+class NumberOfWord{
 	public static void main(String args[]){
 		Scanner sc = new Scanner(System.in);
 		
 		System.out.print("Enter any string : ");
-		String s = sc.next();
+		String str = sc.nextLine();
 		
-		char arr[] = s.toCharArray();
+		String arr[] = str.split(" ");
 		
-		Arrays.sort(arr);
-		
-		String ans = new String(arr);
-		System.out.println("ANS : " + ans);
+		System.out.println("Total Words : " + arr.length);
 		
 		sc.close();
 	}
