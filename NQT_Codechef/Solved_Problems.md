@@ -3,3 +3,4 @@
 1. Count Pairs divisible by 2
 2. Factorial without Multiplication & Division
 3. Identify Row with Most 1
+4. Count Character Occurrences
