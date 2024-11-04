@@ -4,3 +4,4 @@
 2. Factorial without Multiplication & Division
 3. Identify Row with Most 1
 4. Count Character Occurrences
+5. Good Number
