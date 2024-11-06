@@ -6,3 +6,4 @@
 4. Count Character Occurrences
 5. Good Number
 6. Vehicle Manufacturing
+7. Longest Common Prefix
