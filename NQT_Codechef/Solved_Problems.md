@@ -8,3 +8,4 @@
 6. Vehicle Manufacturing
 7. Longest Common Prefix
 8. Union of Sorted Arrays
+9. Find Equilibrium Point
