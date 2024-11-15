@@ -12,3 +12,4 @@
 10. Convert number to words
 11. Motivation
 12. Chef and Spells
+13. Smallest Possible Whole Number
