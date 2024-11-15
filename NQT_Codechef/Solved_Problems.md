@@ -11,3 +11,4 @@
 9. Find Equilibrium Point
 10. Convert number to words
 11. Motivation
+12. Chef and Spells
